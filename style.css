@@ -1,0 +1,35 @@
+#HeadTitle, #pagebody, footer{
+    margin: 50px;
+}
+
+header {
+    background: teal;
+    height: 150px;
+    margin: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#HeadTitle{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+
+#pagebody{
+    background: lightgrey;
+    height: 1000px;
+}
+
+footer{
+    background: darkgrey;
+    height: 50px;
+    bottom: 0;
+    padding: 20px;
+}
