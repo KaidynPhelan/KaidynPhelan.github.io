@@ -32,6 +32,11 @@ footer{
     height: 50px;
     bottom: 0;
     padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 #peoplepage{
